@@ -1,0 +1,30 @@
+* The TODO-list
+
+** Parser [50%]
+
+   - [X] start
+   - [ ] finish
+
+** Reader [0%]
+
+   - [ ] get_next
+   - [ ] get filehandle as source
+   - [ ] get class as source file
+         check whether the class can at least set_source, get_sourse and get_next
+
+** File [25%]
+
+   - [ ] Read file splitted by '>'
+   - [X] source setter/getter
+         source cannot be reset
+   - [ ] get filehandle as source
+   - [ ] get_next
+
+** String [100%]
+
+   - [X] Split string by '>'
+   - [X] source setter/getter
+         source cannot be reset
+   - [X] get_next
+
+** Tests [%]

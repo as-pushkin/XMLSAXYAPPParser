@@ -1,0 +1,6 @@
+Revision history for Perl extension XML::SAX::YAPPParser.
+
+0.01  Sat Oct 10 09:38:10 2009
+	- original version; created by h2xs 1.23 with options
+		-XA -n XML::SAX::YAPPParser
+
